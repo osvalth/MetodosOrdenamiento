@@ -33,11 +33,8 @@
     <div class="col-12 d-flex flex-column justify-content-center bd-highlight mb-3 mt-3" id="listOrdenar">
 
     </div>
-
-
   </div>
 </template>
-
 <script>
 import { ref, reactive } from "vue";
 import { useStore } from 'vuex';
